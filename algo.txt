@@ -1,0 +1,8 @@
+Step 1: Choose pizza place
+Step 2: Choose size of pizza
+Step 3: Choose type of crust
+Step 4: Choose type of sauce
+Step 5: Choose toppings
+Step 6: Choose type of cheese
+Step 7: pay for pizza
+Step 8: Choose pickup or delivery
