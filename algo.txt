@@ -6,3 +6,4 @@ Step 5: Choose toppings
 Step 6: Choose type of cheese
 Step 7: pay for pizza
 Step 8: Choose pickup or delivery
+Step 9: If order is incorrect call and get fixed
